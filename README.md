@@ -42,14 +42,13 @@ I'm open to connecting, discussing projects, and collaborating on interesting id
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=naisran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naisran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nafiyanalidev\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=nafiyanalidev\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://komarev.com/ghpvc/?username=naisran&icon=0&color=0)](https://visitcount.itsvg.in)
