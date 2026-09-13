@@ -2,19 +2,19 @@
 
 # 👋 Hey, I'm Nafiyan Ali
 
-### 💻 Student Developer · Full-Stack Builder · Problem Solver
+### Student Developer · Full-Stack Builder · Problem Solver
 
-I build **real-world digital products** with a focus on modern UI, useful functionality, and reliable backend systems.
+I build **real-world digital products** with modern interfaces, real data, and useful functionality.
 
-I enjoy turning ideas into working applications — from the first interface to authentication, databases, realtime features, and deployment.
+I'm interested in turning ideas into complete applications — from **UI/UX and frontend development to authentication, databases, realtime systems, and mobile deployment.**
 
-<br>
+<br/>
 
 <a href="https://github.com/nafiyanalidev">
-  <img src="https://img.shields.io/github/followers/nafiyanalidev?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-nafiyanalidev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://github.com/nafiyanalidev?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects-Explore-4A90E2?style=for-the-badge&logo=github" alt="Projects"/>
 </a>
 
 </div>
@@ -23,34 +23,42 @@ I enjoy turning ideas into working applications — from the first interface to 
 
 ## 🧑‍💻 About Me
 
-* 🚀 Building **real-world applications**, not just demos
-* 🧩 Interested in **full-stack and mobile development**
-* 🎨 Passionate about **modern UI/UX and product design**
-* 🗄️ Learning more about **databases, authentication and realtime systems**
-* 🌍 Interested in using technology to solve **real community problems**
-* 📚 Constantly learning and experimenting with new technologies
-* ⚡ I like building projects **brick by brick**
+I'm a student developer who enjoys **building, experimenting, and solving problems through technology**.
 
-> **Idea → Design → Development → Backend → Testing → Deployment**
+My main interest is creating applications that don't just look good, but actually work behind the scenes with real authentication, databases, APIs, realtime functionality, and production-ready workflows.
+
+### Currently focused on
+
+* 🌐 Full-stack web development
+* 📱 Mobile application development
+* 🎨 Modern UI/UX
+* 🗄️ Database architecture
+* 🔐 Authentication & security
+* ⚡ Realtime applications
+* 🧩 Civic technology
+* 🚀 Product development
+
+> **Build ideas. Solve problems. Learn continuously.**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧩 NEXUS — Civic Technology Platform
+## 🧩 NEXUS
+
+### Civic Technology Platform
 
 > **See a problem. Connect people. Turn it into a solution.**
 
-NEXUS is a civic-tech platform designed around real community problems.
+NEXUS is a civic-tech platform focused on helping communities identify real-world problems, understand where they are happening, connect people around them, and work toward solutions.
 
-The idea is to help people identify issues, discover them geographically, connect with others, and work toward solutions.
+### Highlights
 
-### Core Features
-
-* 🗺️ Real geographic problem mapping
-* 📍 Location-based civic issues
+* 🗺️ Geographic civic-issue mapping
+* 📍 Location-aware problems
 * 👥 Community connections
-* 💬 Discussions and support
+* 💬 Problem discussions
+* 👍 Community support
 * 📊 Impact tracking
 * 🔐 User authentication
 * ⚡ Realtime data
@@ -61,11 +69,15 @@ The idea is to help people identify issues, discover them geographically, connec
 
 ---
 
-## 🌐 UNIXN — Social Platform
+## 🌐 UNIXN
 
-UNIXN is a social platform concept focused on meaningful connections rather than simply maximizing follower counts.
+### Modern Social Platform
 
-### Exploring
+UNIXN is a social-platform project focused on **meaningful connections and modern social interaction**.
+
+Instead of simply focusing on follower counts, UNIXN explores a more personal connection model through friend circles and community interactions.
+
+### Highlights
 
 * 👤 User profiles
 * 🤝 Friend circles
@@ -75,41 +87,48 @@ UNIXN is a social platform concept focused on meaningful connections rather than
 * 🔔 Notifications
 * 🔐 Authentication
 * ⚡ Realtime interactions
-* ☁️ Scalable backend architecture
+* ☁️ Backend data architecture
 
-The goal is to build UNIXN as a **real functional product**, not a static social-media mockup.
+> Building UNIXN brick by brick — from interface to backend.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technologies
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" alt="C++"/>
+</p>
 
 ### Frontend
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"/>
 </p>
 
 ### Backend & Database
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" height="40" alt="Firebase"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" alt="Firebase"/>
 </p>
 
-### Mobile & Tools
+### Mobile & Development Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="40" height="40" alt="Ionic"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" alt="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="42" alt="Ionic"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
 </p>
 
 ---
@@ -118,9 +137,9 @@ The goal is to build UNIXN as a **real functional product**, not a static social
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nafiyanalidev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nafiyanalidev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Nafiyan's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiyanalidev&layout=compact&hide_border=true&langs_count=8" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiyanalidev&layout=compact&langs_count=8&hide_border=true" alt="Nafiyan's Top Languages"/>
 
 </div>
 
@@ -130,7 +149,7 @@ The goal is to build UNIXN as a **real functional product**, not a static social
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nafiyanalidev&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=nafiyanalidev&hide_border=true" alt="Nafiyan's Contribution Streak"/>
 
 </div>
 
@@ -140,43 +159,19 @@ The goal is to build UNIXN as a **real functional product**, not a static social
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiyanalidev&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiyanalidev&hide_border=true&area=true" alt="Nafiyan's Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nafiyanalidev&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nafiyanalidev&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nafiyanalidev/nafiyanalidev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-# 📌 GitHub Overview
-
-| 📊 Metric        | 🔥 What it represents                   |
-| ---------------- | --------------------------------------- |
-| 📦 Repositories  | My public development work              |
-| ⭐ Stars          | Recognition received from the community |
-| 🔥 Streak        | Consistency in contributing             |
-| 💻 Commits       | Development activity                    |
-| 🔀 Pull Requests | Collaboration and contributions         |
-| 🐛 Issues        | Problem solving and project discussions |
-| 📈 Activity      | Recent development progress             |
 
 ---
 
@@ -195,7 +190,7 @@ Authentication & Security
         ↓
 Realtime Systems
         ↓
-Mobile App Development
+Mobile Development
         ↓
 Production & Deployment
 ```
@@ -204,63 +199,79 @@ Production & Deployment
 
 # 🎯 My Development Philosophy
 
-I don't want to build software that only **looks good**.
+I don't want to build applications that only **look good**.
 
-I want to understand what happens behind the interface.
+I want to understand how the entire product works.
 
-### My approach:
+### My workflow
 
-**Design**
+**01 — Discover**
 
-→ Create a clean and intuitive experience.
+Understand the problem and the people who need the solution.
 
-**Build**
+**02 — Design**
 
-→ Turn the design into functional components.
+Create a clean, intuitive interface.
 
-**Connect**
+**03 — Build**
 
-→ Add real databases, authentication and APIs.
+Turn the design into functional software.
 
-**Test**
+**04 — Connect**
 
-→ Find problems and improve reliability.
+Add real databases, authentication, APIs and realtime systems.
 
-**Deploy**
+**05 — Test**
 
-→ Turn the project into something people can actually use.
+Find problems, improve reliability, and refine the experience.
+
+**06 — Deploy**
+
+Turn the project into something people can actually use.
 
 ---
 
-# 💡 What I Like Building
+# 💡 What I Love Building
 
-```text
-🌐 Web Applications
-📱 Mobile Applications
-🧩 Civic-Tech Products
-👥 Social Platforms
-🗺️ Location-Based Applications
-⚡ Realtime Systems
-🎨 Modern UI/UX
-🛠️ Developer Tools
-```
+| Area                | Focus                                      |
+| ------------------- | ------------------------------------------ |
+| 🌐 Web Apps         | Modern, responsive applications            |
+| 📱 Mobile Apps      | Android & cross-platform applications      |
+| 🧩 Civic Tech       | Technology for real community problems     |
+| 👥 Social Platforms | Meaningful digital connections             |
+| 🗺️ Location Apps   | Geographic and community-based experiences |
+| ⚡ Realtime Apps     | Live data and interactions                 |
+| 🎨 UI/UX            | Clean and purposeful interfaces            |
+| 🛠️ Developer Tools | Tools that make development easier         |
+
+---
+
+# 📌 What I'm Working Toward
+
+My goal is to become a stronger **full-stack product developer** by continuously building real projects and learning how different parts of modern software fit together.
+
+I want my projects to demonstrate more than code.
+
+They should demonstrate:
+
+**Problem solving → Design → Engineering → Product thinking**
 
 ---
 
 # 📫 Connect With Me
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/nafiyanalidev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://twitter.com/nafiyanali14">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://instagram.com/_nafi.yan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -273,8 +284,9 @@ I want to understand what happens behind the interface.
 
 **One brick at a time.**
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=nafiyanalidev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nafiyanalidev&label=Profile%20Views&style=flat" alt="Profile Views"/>
 
 </div>
+
