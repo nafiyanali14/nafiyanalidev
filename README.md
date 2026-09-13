@@ -4,187 +4,193 @@
 
 ### 💻 Student Developer · Full-Stack Builder · Problem Solver
 
-I build **real-world digital products** with modern interfaces, useful functionality, and reliable backend systems.
+I build real-world digital products with a focus on modern UI, useful functionality, and reliable backend systems.
 
-I enjoy turning ideas into working applications — from **UI/UX and frontend development to authentication, databases, realtime systems, and mobile deployment.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-nafiyanalidev-181717?style=for-the-badge\&logo=github)](https://github.com/nafiyanalidev)
-[![Repositories](https://img.shields.io/badge/Projects-Explore-0969da?style=for-the-badge\&logo=github)](https://github.com/nafiyanalidev?tab=repositories)
+I enjoy turning ideas into working applications — from frontend design and development to authentication, databases, realtime systems, and mobile deployment.
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I'm a student developer interested in building **real products that solve real problems**.
+* 💻 Student developer passionate about building software
+* 🌐 Interested in full-stack web development
+* 📱 Building mobile applications
+* 🎨 Interested in modern UI/UX and product design
+* 🗄️ Learning backend architecture and databases
+* ⚡ Exploring realtime applications
+* 🧩 Building technology around real-world problems
+* 🚀 Always learning by building
 
-I enjoy working across the entire development process:
-
-* 🎨 UI/UX and product design
-* ⚛️ Frontend development
-* 🗄️ Backend and databases
-* 🔐 Authentication and security
-* ⚡ Realtime applications
-* 📱 Mobile development
-* 🚀 Deployment and testing
-
-My goal is to keep improving by **building real projects instead of only following tutorials**.
+> **Build useful things. Learn continuously. Keep improving.**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧩 NEXUS
+### 🧩 NEXUS — Civic Technology Platform
 
-### Civic Technology Platform
+**See a problem. Connect people. Turn it into a solution.**
 
-> **See a problem. Connect people. Turn it into a solution.**
+NEXUS is a civic-tech platform focused on real community problems in Jammu & Kashmir.
 
-NEXUS is a civic-tech platform designed around real community problems.
+The platform is designed to help people identify problems, understand where they are happening, connect with others, and work toward solutions.
 
-It focuses on helping people identify issues, understand where they are happening, connect with other people, and work toward solutions.
-
-**Key areas**
-
-* 🗺️ Geographic civic issues
-* 📍 Location-aware problems
-* 👥 Community connections
-* 💬 Discussions
-* 👍 Community support
-* 📊 Impact tracking
-* 🔐 Authentication
-* ⚡ Realtime data
-* ☁️ Supabase
-* 📱 Android
-
-**Focus:** Jammu & Kashmir, India
+**Tech focus:** React · TypeScript · Supabase · PostgreSQL · Capacitor · Android
 
 ---
 
-## 🌐 UNIXN
+### 🌐 UNIXN — Social Platform
 
-### Social Platform
+UNIXN is a modern social-platform project focused on meaningful digital connections.
 
-UNIXN is a social-platform project focused on **meaningful digital connections**.
+The project explores profiles, friend circles, posts, moments, realtime messaging, notifications, and community interaction.
 
-Instead of focusing only on follower numbers, the project explores friend circles, personal connections, moments, messaging, and communities.
-
-**Key areas**
-
-* 👤 Profiles
-* 🤝 Friend circles
-* 📝 Posts and Moments
-* ❤️ Likes and Saves
-* 💬 Realtime messaging
-* 🔔 Notifications
-* 🔐 Authentication
-* ⚡ Realtime interactions
+**Tech focus:** React · TypeScript · Tailwind CSS · Supabase · Realtime Systems
 
 ---
 
-# 🛠️ Technology Stack
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-nafiyanalidev-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nafiyanalidev)
+[![Instagram](https://img.shields.io/badge/Instagram-_nafi.yan-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_nafi.yan)
+[![X](https://img.shields.io/badge/X-nafiyanali14-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/nafiyanali14)
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" alt="C++">
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### Frontend
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS">
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### Backend & Database
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" alt="Firebase">
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### Tools & Mobile
+### Mobile & Tools
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" alt="Android">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="42" alt="Ionic">
-</p>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge\&logo=capacitor\&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge\&logo=ionic\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
-My GitHub profile shows my public repositories, projects, and contribution history.
+<div align="center">
 
-### 🔗 Explore my work
+<img src="https://github-readme-stats.vercel.app/api?username=nafiyanalidev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-**[View all repositories →](https://github.com/nafiyanalidev?tab=repositories)**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiyanalidev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages"/>
 
-**[View my contribution activity →](https://github.com/nafiyanalidev?tab=overview)**
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=nafiyanalidev&theme=dark&hide_border=true" alt="Contribution Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiyanalidev&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nafiyanalidev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
-* Full-stack application architecture
-* React and TypeScript
-* Supabase and PostgreSQL
-* Authentication and security
-* Realtime systems
-* Mobile application development
-* API integration
-* Production deployment
-* Better UI/UX and product design
+```text
+Full-Stack Development
+        ↓
+React & TypeScript
+        ↓
+Supabase & PostgreSQL
+        ↓
+Authentication & Security
+        ↓
+Realtime Systems
+        ↓
+Mobile Application Development
+        ↓
+API Integration
+        ↓
+Production & Deployment
+```
 
 ---
 
 # 🎯 My Development Philosophy
 
-I don't want to build applications that only **look good**.
+I don't want to build applications that only look good.
 
-I want to understand what happens behind the interface.
+I want to understand how the entire product works.
 
 ```text
 IDEA
- ↓
+  ↓
 PROBLEM
- ↓
+  ↓
 DESIGN
- ↓
+  ↓
 DEVELOPMENT
- ↓
+  ↓
 DATABASE
- ↓
+  ↓
 REALTIME
- ↓
+  ↓
 TESTING
- ↓
+  ↓
 DEPLOYMENT
 ```
 
-> **Build useful things. Learn from every project. Keep improving.**
+> **Build something meaningful. One brick at a time.**
 
 ---
 
-# 💡 What I Like Building
+# 📌 What I Like Building
 
 | Area                    | Focus                                  |
 | ----------------------- | -------------------------------------- |
 | 🌐 Web Applications     | Modern and responsive products         |
-| 📱 Mobile Applications  | Android and cross-platform apps        |
+| 📱 Mobile Applications  | Android & cross-platform apps          |
 | 🧩 Civic Technology     | Technology for real community problems |
 | 👥 Social Platforms     | Meaningful digital connections         |
 | 🗺️ Location-Based Apps | Geographic experiences                 |
@@ -193,15 +199,21 @@ DEPLOYMENT
 
 ---
 
-# 📫 Connect With Me
+## 📊 GitHub Overview
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nafiyanalidev)
+<a href="https://github.com/nafiyanalidev?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20Repositories-View%20Projects-181717?style=for-the-badge" alt="Repositories"/>
+</a>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/nafiyanali14)
+<a href="https://github.com/nafiyanalidev?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-F5C518?style=for-the-badge" alt="Stars"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_nafi.yan)
+<a href="https://github.com/nafiyanalidev?tab=overview">
+<img src="https://img.shields.io/badge/🔥%20Activity-View%20Activity-E55353?style=for-the-badge" alt="Activity"/>
+</a>
 
 </div>
 
@@ -212,5 +224,9 @@ DEPLOYMENT
 ### ⚡ Build something meaningful.
 
 **One brick at a time.**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nafiyanalidev\&label=Profile%20Views\&style=flat)
 
 </div>
