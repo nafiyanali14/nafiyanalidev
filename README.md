@@ -48,7 +48,8 @@ I'm open to connecting, discussing projects, and collaborating on interesting id
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=naisran&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=nafiyanalidev\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://komarev.com/ghpvc/?username=naisran&icon=0&color=0)](https://visitcount.itsvg.in)
