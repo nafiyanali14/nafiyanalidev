@@ -44,6 +44,7 @@ I'm open to connecting, discussing projects, and collaborating on interesting id
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nafiyanali14\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
